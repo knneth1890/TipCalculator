@@ -24,4 +24,3 @@ print(f"Each person should pay: ${eachPersonPay}")
 final_amount_of_bill = "{:.3f}".format(
     totalBillincludingTip)  #rount the float to 3 decimal places
 print(final_amount_of_bill)
-# tipResult =
